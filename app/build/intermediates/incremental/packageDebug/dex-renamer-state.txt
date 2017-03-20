@@ -1,0 +1,7 @@
+#Tue Mar 21 02:39:22 BDT 2017
+base.0=D\:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9b2581b6ddb8a0949c3d4085ca91b23d209b79ee
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3be0f66ae8fb14bae8955ecfd7fae668ac08364d\\classes.dex
+base.1=D\:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3be0f66ae8fb14bae8955ecfd7fae668ac08364d
+file.0=D\:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9b2581b6ddb8a0949c3d4085ca91b23d209b79ee\\classes.dex

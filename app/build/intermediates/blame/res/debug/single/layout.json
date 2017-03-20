@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\social_activity.xml",
+        "source": "D:\\android project\\HitechWebdesignApps\\app\\src\\main\\res\\layout\\social_activity.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\social_activity.xml",
+        "source": "D:\\android project\\HitechWebdesign\\app\\src\\main\\res\\layout\\social_activity.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_activity.xml",
+        "source": "D:\\android project\\HitechWebdesign\\app\\src\\main\\res\\layout\\feature_activity.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photos_activity.xml",
+        "source": "D:\\android project\\HitechWebdesign\\app\\src\\main\\res\\layout\\photos_activity.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_activity.xml",
+        "source": "D:\\android project\\HitechWebdesignApps\\app\\src\\main\\res\\layout\\about_activity.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\android project\\HitechWebdesignApps\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_activity.xml",
+        "source": "D:\\android project\\HitechWebdesignApps\\app\\src\\main\\res\\layout\\feature_activity.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\android project\\HitechWebdesign\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_activity.xml",
+        "source": "D:\\android project\\HitechWebdesign\\app\\src\\main\\res\\layout\\contact_activity.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_activity.xml",
+        "source": "D:\\android project\\HitechWebdesignApps\\app\\src\\main\\res\\layout\\contact_activity.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photos_activity.xml",
+        "source": "D:\\android project\\HitechWebdesignApps\\app\\src\\main\\res\\layout\\photos_activity.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesignApps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android project\\HitechWebdesignApps\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android project\\HitechWebdesign\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android project\\HitechWebdesign\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_activity.xml",
+        "source": "D:\\android project\\HitechWebdesign\\app\\src\\main\\res\\layout\\about_activity.xml"
+    }
+]

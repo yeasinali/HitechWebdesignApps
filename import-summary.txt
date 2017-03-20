@@ -1,0 +1,351 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+D:\android project\HitechWebdesign
+          -                       
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\workspace.xml
+* MainActivity.java
+* app\
+* app\build.gradle
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\assets\
+* app\src\main\assets\view\
+* app\src\main\assets\view\about.html
+* app\src\main\assets\view\contact.html
+* app\src\main\assets\view\css\
+* app\src\main\assets\view\css\colors\
+* app\src\main\assets\view\css\colors\yellow.css
+* app\src\main\assets\view\css\img\
+* app\src\main\assets\view\css\img\icons.png
+* app\src\main\assets\view\css\img\loader.gif
+* app\src\main\assets\view\css\reset.css
+* app\src\main\assets\view\css\swipebox.css
+* app\src\main\assets\view\css\themes\
+* app\src\main\assets\view\css\themes\default\
+* app\src\main\assets\view\css\themes\default\images\
+* app\src\main\assets\view\css\themes\default\images\ajax-loader.gif
+* app\src\main\assets\view\css\themes\default\images\icons-png\
+* app\src\main\assets\view\css\themes\default\images\icons-png\action-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\action-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\alert-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\alert-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-d-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-d-l-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-d-l-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-d-r-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-d-r-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-d-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-l-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-l-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-r-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-r-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-u-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-u-l-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-u-l-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-u-r-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-u-r-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\arrow-u-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\audio-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\audio-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\back-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\back-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\bars-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\bars-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\bullets-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\bullets-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\calendar-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\calendar-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\camera-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\camera-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\carat-d-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\carat-d-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\carat-l-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\carat-l-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\carat-r-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\carat-r-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\carat-u-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\carat-u-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\check-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\check-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\clock-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\clock-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\cloud-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\cloud-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\comment-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\comment-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\delete-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\delete-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\edit-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\edit-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\eye-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\eye-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\forbidden-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\forbidden-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\forward-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\forward-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\gear-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\gear-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\grid-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\grid-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\heart-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\heart-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\home-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\home-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\info-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\info-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\location-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\location-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\lock-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\lock-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\mail-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\mail-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\minus-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\minus-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\navigation-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\navigation-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\phone-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\phone-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\plus-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\plus-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\power-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\power-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\recycle-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\recycle-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\refresh-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\refresh-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\search-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\search-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\shop-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\shop-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\star-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\star-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\tag-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\tag-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\user-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\user-white.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\video-black.png
+* app\src\main\assets\view\css\themes\default\images\icons-png\video-white.png
+* app\src\main\assets\view\css\themes\default\jquery.mobile-1.4.5.css
+* app\src\main\assets\view\features.html
+* app\src\main\assets\view\images\
+* app\src\main\assets\view\images\about-us.jpg
+* app\src\main\assets\view\images\about-us1.jpg
+* app\src\main\assets\view\images\apple-touch-icon.png
+* app\src\main\assets\view\images\apple-touch-startup-image-640x1096.png
+* app\src\main\assets\view\images\author.jpg
+* app\src\main\assets\view\images\bullet.png
+* app\src\main\assets\view\images\comments.html
+* app\src\main\assets\view\images\icons\
+* app\src\main\assets\view\images\icons\black\
+* app\src\main\assets\view\images\icons\black\back.png
+* app\src\main\assets\view\images\icons\black\big.jpg
+* app\src\main\assets\view\images\icons\black\blog.png
+* app\src\main\assets\view\images\icons\black\contact.png
+* app\src\main\assets\view\images\icons\black\des.jpg
+* app\src\main\assets\view\images\icons\black\dev.jpg
+* app\src\main\assets\view\images\icons\black\docs.png
+* app\src\main\assets\view\images\icons\black\dribbble.png
+* app\src\main\assets\view\images\icons\black\eco.jpg
+* app\src\main\assets\view\images\icons\black\facebook.png
+* app\src\main\assets\view\images\icons\black\googleplus.png
+* app\src\main\assets\view\images\icons\black\heart.png
+* app\src\main\assets\view\images\icons\black\linkedin.png
+* app\src\main\assets\view\images\icons\black\lock.png
+* app\src\main\assets\view\images\icons\black\megento.jpg
+* app\src\main\assets\view\images\icons\black\menu_close.png
+* app\src\main\assets\view\images\icons\black\mob.jpg
+* app\src\main\assets\view\images\icons\black\open.jpg
+* app\src\main\assets\view\images\icons\black\photos.png
+* app\src\main\assets\view\images\icons\black\pinterest.png
+* app\src\main\assets\view\images\icons\black\responsive.png
+* app\src\main\assets\view\images\icons\black\toggle.png
+* app\src\main\assets\view\images\icons\black\twitter.png
+* app\src\main\assets\view\images\icons\black\user.png
+* app\src\main\assets\view\images\icons\black\video.png
+* app\src\main\assets\view\images\icons\black\word.jpg
+* app\src\main\assets\view\images\icons\white\
+* app\src\main\assets\view\images\icons\white\blog.png
+* app\src\main\assets\view\images\icons\white\briefcase.png
+* app\src\main\assets\view\images\icons\white\contact.png
+* app\src\main\assets\view\images\icons\white\download.png
+* app\src\main\assets\view\images\icons\white\dribbble.png
+* app\src\main\assets\view\images\icons\white\facebook.png
+* app\src\main\assets\view\images\icons\white\heart.png
+* app\src\main\assets\view\images\icons\white\home.png
+* app\src\main\assets\view\images\icons\white\lock.png
+* app\src\main\assets\view\images\icons\white\menu_close.png
+* app\src\main\assets\view\images\icons\white\message.png
+* app\src\main\assets\view\images\icons\white\phone.png
+* app\src\main\assets\view\images\icons\white\photos.png
+* app\src\main\assets\view\images\icons\white\settings.png
+* app\src\main\assets\view\images\icons\white\team.png
+* app\src\main\assets\view\images\icons\white\twitter.png
+* app\src\main\assets\view\images\icons\white\user.png
+* app\src\main\assets\view\images\icons\white\video.png
+* app\src\main\assets\view\images\load_posts.png
+* app\src\main\assets\view\images\load_posts_disabled.png
+* app\src\main\assets\view\images\loader.gif
+* app\src\main\assets\view\images\logo.png
+* app\src\main\assets\view\images\page_photo.jpg
+* app\src\main\assets\view\images\photos\
+* app\src\main\assets\view\images\photos\photo1.jpg
+* app\src\main\assets\view\images\photos\photo10.jpg
+* app\src\main\assets\view\images\photos\photo11.jpg
+* app\src\main\assets\view\images\photos\photo12.jpg
+* app\src\main\assets\view\images\photos\photo121.jpg
+* app\src\main\assets\view\images\photos\photo13.jpg
+* app\src\main\assets\view\images\photos\photo14.jpg
+* app\src\main\assets\view\images\photos\photo15.jpg
+* app\src\main\assets\view\images\photos\photo2.jpg
+* app\src\main\assets\view\images\photos\photo3.jpg
+* app\src\main\assets\view\images\photos\photo4.jpg
+* app\src\main\assets\view\images\photos\photo5.jpg
+* app\src\main\assets\view\images\photos\photo6.jpg
+* app\src\main\assets\view\images\photos\photo7.jpg
+* app\src\main\assets\view\images\photos\photo8.jpg
+* app\src\main\assets\view\images\photos\photo9.jpg
+* app\src\main\assets\view\images\post_photo.jpg
+* app\src\main\assets\view\images\profile.jpg
+* app\src\main\assets\view\js\
+* app\src\main\assets\view\js\email.js
+* app\src\main\assets\view\js\jquery.min.js
+* app\src\main\assets\view\js\jquery.mobile-1.4.5.min.js
+* app\src\main\assets\view\js\jquery.mobile-custom.js
+* app\src\main\assets\view\js\jquery.swipebox.js
+* app\src\main\assets\view\js\jquery.validate.min.js
+* app\src\main\assets\view\photos.html
+* app\src\main\assets\view\social.html
+* app\src\main\assets\view\style.css
+* app\src\main\java\
+* app\src\main\java\net\
+* app\src\main\java\net\hitechwebdesign\
+* app\src\main\java\net\hitechwebdesign\hitechwebdesign\
+* app\src\main\java\net\hitechwebdesign\hitechwebdesign\About.java
+* app\src\main\java\net\hitechwebdesign\hitechwebdesign\Contact.java
+* app\src\main\java\net\hitechwebdesign\hitechwebdesign\Feature.java
+* app\src\main\java\net\hitechwebdesign\hitechwebdesign\Home.java
+* app\src\main\java\net\hitechwebdesign\hitechwebdesign\MainActivity.java
+* app\src\main\java\net\hitechwebdesign\hitechwebdesign\Photos.java
+* app\src\main\java\net\hitechwebdesign\hitechwebdesign\Social.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\about.png
+* app\src\main\res\drawable-mdpi\call.png
+* app\src\main\res\drawable-mdpi\contact.png
+* app\src\main\res\drawable-mdpi\fea.png
+* app\src\main\res\drawable-mdpi\homebackground.png
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\launcer_ic.png
+* app\src\main\res\drawable-mdpi\menubtn.png
+* app\src\main\res\drawable-mdpi\pagebackground.png
+* app\src\main\res\drawable-mdpi\photo.png
+* app\src\main\res\drawable-mdpi\social.png
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\ic_launcher.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\about_activity.xml
+* app\src\main\res\layout\activity_main.xml
+* app\src\main\res\layout\contact_activity.xml
+* app\src\main\res\layout\feature_activity.xml
+* app\src\main\res\layout\home.xml
+* app\src\main\res\layout\photos_activity.xml
+* app\src\main\res\layout\social_activity.xml
+* app\src\main\res\menu\
+* app\src\main\res\menu\main.xml
+* app\src\main\res\values-sw600dp\
+* app\src\main\res\values-sw600dp\dimens.xml
+* app\src\main\res\values-sw720dp-land\
+* app\src\main\res\values-sw720dp-land\dimens.xml
+* app\src\main\res\values-v11\
+* app\src\main\res\values-v11\styles.xml
+* app\src\main\res\values-v14\
+* app\src\main\res\values-v14\styles.xml
+* app\src\main\res\values\
+* app\src\main\res\values\dimens.xml
+* app\src\main\res\values\strings.xml
+* app\src\main\res\values\styles.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+gridlayout-v7 => [com.android.support:gridlayout-v7:18.0.0]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
